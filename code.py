@@ -1,4 +1,4 @@
-value = input("Enter Two Number Sperated by space")
+value = input("Enter Two Number Separate by space")
 num = value.split()
 x = int(num[0])
 y = int(num[1])
